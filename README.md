@@ -1,3 +1,4 @@
+![pic](https://raw.githubusercontent.com/Aviator16/KNN-vs-PCA-KNN-vs-K-Means/main/mushrooms.jpg)
 
 # KNN-vs-PCA-KNN-vs-K-Means
 A comparative study between the algorithms
